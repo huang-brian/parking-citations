@@ -1,0 +1,28 @@
+Subject: Public Records Request - Parking Citation Records (2023-2026)
+
+To: City Clerk, City of Alhambra
+111 South First Street
+Alhambra, CA 91801
+
+
+To whom it may concern, 
+
+Pursuant to the California Public Records Act, I am requesting the following records held by the City of Alhambra:
+
+All parking citation records issued from January 1, 2023, through June 30, 2026, including:
+- Parking citation number
+- Date and time of issuance
+- Date and time marked
+- Location (street number & street name)
+- Violation code and description
+- Fine amount
+- Vehicle make, model, and color
+- Citation status (e.g. paid, unpaid, appealed, dismissed)
+- LPR vehicle number
+- Citing officer's badge number
+
+Preferred format: CSV or Excel file
+
+Please contact me if you need any additional information or clarification. 
+
+Thank you for your assistance with this request.
