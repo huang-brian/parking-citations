@@ -1,0 +1,16 @@
+Unique values in 'Status' (13 total):
+============================================================
+
+Adjudication Denied
+Adjudication Partial
+Adjudication Pending
+Adjudication Pending (paid)
+Citation Dismissed
+Citation Reduced
+Issued
+Paid In Full
+Promise To Pay - Default
+Promise to Pay
+Void Approved
+Void Denial
+Warning

@@ -1,0 +1,18 @@
+Unique values in 'Color' (15 total):
+============================================================
+
+BLCK
+BLUE
+BRWN
+GOLD
+GRAY
+GREN
+MARN
+ORAN
+PINK
+PRPL
+RED
+SILV
+TAN
+WHIT
+YELW
