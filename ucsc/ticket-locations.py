@@ -12,8 +12,8 @@ def get_location_counts(filepath):
     
     print(f"Reading CSV file: {filepath}\n")
     
-    # Read CSV, skipping the first 2 header rows
-    df = pd.read_csv(filepath, skiprows=2)
+    # Read CSV
+    df = pd.read_csv(filepath)
     
     # Get location value counts
     location_counts = df['Location'].value_counts()
