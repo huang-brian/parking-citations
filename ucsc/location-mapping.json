@@ -59,7 +59,8 @@
   "112 CORE WEST STRUCTURE": [
     "112 CORE WEST STRUCTURE,",
     "112 CORE WEST STRUCTURE9",
-    "LOT 112"
+    "LOT 112",
+    "112"
   ],
   "113 THIMANN LAB": [
     "113"
@@ -208,7 +209,9 @@
     "152-155 CROWN-MERRILL APARTMENTS",
     "LOT 152"
   ],
-  "153 CROWN - MERRILL APARTMENTS": [],
+  "153 CROWN - MERRILL APARTMENTS": [
+    "LOT 153"
+  ],
   "154 CROWN - MERRILL APARTMENTS": [
     "154",
     "LOT 154"
@@ -228,10 +231,12 @@
   ],
   "161 OAKES COLLEGE": [
     "LOT 161",
-    "OAKES 161"
+    "OAKES 161",
+    "161"
   ],
   "162 OAKES COLLEGE": [
-    "LOT 162"
+    "LOT 162",
+    "162"
   ],
   "163 COWELL PROVOST": [
     "163"
@@ -285,7 +290,8 @@
     "LOT 205"
   ],
   "206 COASTAL SCIENCE CAMPUS": [
-    "LOT 206"
+    "LOT 206",
+    "206"
   ],
   "207 COASTAL SCIENCE CAMPUS": [],
   "301 WESTSIDE RESEARCH PARK": [
@@ -321,6 +327,7 @@
   ],
   "BASKIN VISUAL ARTS": [],
   "BLACKSMITH SHOP DIRT AREA": [],
+  "CHINQUAPIN RD.": [],
   "CLASSROOM UNIT BUILDING": [
     "CLASSROOM 1&2",
     "CLASSROOM UNIT 2"
@@ -346,6 +353,7 @@
     "COWELL COLLEGE, HAGAR RD"
   ],
   "COWELL APARTMENTS 2": [],
+  "COWELL COLLEGE": [],
   "COWELL DINING LOADING DOCK": [],
   "COWELL-STEVENSON RD.": [
     "COWELL- STEVENSON ROAD"
@@ -366,6 +374,7 @@
   "FAMILY STUDENT HOUSING": [
     "FSH"
   ],
+  "FIELD OFF OF HAGER" : [],
   "GRADUATE STUDENT COMMONS": [
     "GRADUATE STYDENT COMMONS"
   ],
@@ -457,8 +466,14 @@
     "STUDENT UNION BUILDING"
   ],
   "THE AARC": [],
-  "THE FARM": [],
-  "THE FARM RD.": [],
+  "THE FARM": [
+    "FARM"
+  ],
+  "THE FARM RD.": [
+    "FARM RD",
+    "FARM ROAD"
+  ],
+  "FARM SERVICE ROAD": [],
   "THE VILLAGE": [
     "VILLAGE RD."
   ],
