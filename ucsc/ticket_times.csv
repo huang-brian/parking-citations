@@ -178,3 +178,268 @@ THEATER ARTS CENTER,10:54:00,10:54:00,1
 THIMANN LABS,18:08:00,18:08:00,1
 WEST FIELD HOUSE,07:23:00,20:22:00,66
 WESTSIDE RESEARCH PARK,15:47:00,15:47:00,1
+
+
+================================================================================
+TICKET TIME ANALYSIS BY LOCATION
+================================================================================
+
+✓ Wrote results to: ticket_times.csv
+
+Total unique locations: 179
+Total records analyzed: 46856
+
+Location                                           Earliest   Latest     Count   
+--------------------------------------------------------------------------------
+101 HAHN STUDENT SERVICES                          07:14:00   19:14:00   1773    
+102 QUARRY PLAZA                                   07:37:00   20:33:00   332     
+102 QUARRY PLAZA LOADING DOCK                      14:12:00   14:12:00   1       
+103A EAST FIELD HOUSE                              07:02:00   20:03:00   3526    
+103B ATH-REC                                       08:50:00   19:30:00   62      
+104 EAST REMOTE                                    07:05:00   19:35:00   2973    
+105 UNIVERSITY POLICE                              09:37:00   16:05:00   23      
+106 COWELL COLLEGE                                 08:06:00   19:56:00   45      
+107 COWELL/STEVENSON                               07:04:00   20:28:00   1422    
+108 STEVENSON SERVICE ROAD                         03:51:00   20:06:00   606     
+109 STEVENSON COLLEGE                              07:05:00   19:55:00   2296    
+110 STEVENSON COLLEGE                              07:22:00   18:57:00   417     
+111A CROWN COLLEGE PIT                             07:10:00   20:01:00   1121    
+111B CROWN COLLEGE CIRCLE                          07:04:00   20:18:00   324     
+112 CORE WEST STRUCTURE                            07:07:00   19:22:00   4643    
+113 THIMANN LAB                                    07:56:00   20:00:00   389     
+114 JOHN R. LEWIS                                  07:12:00   19:39:00   171     
+115 CARRIAGE HOUSE                                 07:26:00   20:42:00   95      
+116 CAMPUS FACILITIES                              07:16:00   16:44:00   210     
+117A ADMISSIONS                                    12:44:00   15:10:00   6       
+117B COOK HOUSE                                    10:46:00   14:51:00   10      
+118 GRANARY                                        10:57:00   15:09:00   28      
+119 MERRILL COLLEGE                                07:10:00   20:09:00   890     
+120A LOWER MCHENRY LIBRARY                         07:56:00   19:54:00   625     
+120B LOWER MCHENRY LIBRARY                         09:49:00   09:49:00   1       
+120B UPPER MCHENRY LIBRARY                         08:51:00   20:11:00   66      
+121 BIOMED/SCIENCE LIBRARY                         07:33:00   19:52:00   505     
+122 BARN THEATER                                   07:07:00   20:20:00   39      
+123 HEAT PLANT                                     08:46:00   20:11:00   105     
+124 PORTER COLLEGE                                 07:15:00   19:55:00   1420    
+125 PORTER COLLEGE                                 07:14:00   20:31:00   1628    
+126 ARTS                                           07:05:00   20:10:00   2530    
+127 WEST REMOTE                                    07:04:00   20:08:00   705     
+128 HEALTH CENTER                                  08:11:00   18:35:00   469     
+129 FAMILY STUDENT HOUSING - 100 LOOP              07:39:00   15:50:00   25      
+129-136 FAMILY STUDENT HOUSING                     08:02:00   09:36:00   9       
+130 FAMILY STUDENT HOUSING - 200 LOOP              07:46:00   15:56:00   25      
+131 FAMILY STUDENT HOUSING - 300 LOOP              07:21:00   14:37:00   31      
+132 FAMILY STUDENT HOUSING - 400 LOOP              07:17:00   15:13:00   10      
+133 FAMILY STUDENT HOUSING - 500 LOOP              07:17:00   15:34:00   41      
+134 FAMILY STUDENT HOUSING - 600 LOOP              07:23:00   16:24:00   30      
+135 FAMILY STUDENT HOUSING - 700 LOOP              07:12:00   17:40:00   101     
+136 FAMILY STUDENT HOUSING - 800 LOOP              07:31:00   15:43:00   40      
+137 TAPS SALES OFFICE                              11:46:00   16:56:00   10      
+138 BASKIN ENGINEERING                             07:59:00   20:19:00   271     
+139A ENGINEERING II                                07:42:00   19:54:00   1030    
+139B COMMUNICATIONS                                08:18:00   19:56:00   544     
+140 FOUNDRY                                        09:17:00   19:42:00   101     
+141 KERR HALL                                      08:44:00   19:26:00   58      
+142 KRESGE COLLEGE                                 14:56:00   17:28:00   2       
+144 COLLEGE NINE                                   07:53:00   14:03:00   4       
+144 OAKES COLLEGE                                  07:00:00   20:25:00   163     
+145 KRESGE COLLEGE                                 07:12:00   19:51:00   381     
+146 RACHEL CARSON COLLEGE                          07:04:00   20:23:00   691     
+147 KRESGE COLLEGE                                 07:16:00   19:49:00   286     
+149 HELLER EXTENSION                               07:14:00   18:37:00   314     
+150A NORTH PERIMETER                               07:19:00   19:19:00   513     
+150B NORTH PERIMETER                               08:34:00   19:10:00   326     
+151 CARDIFF HOUSE                                  07:04:00   13:28:00   32      
+152 CROWN - MERRILL APARTMENTS                     07:04:00   20:10:00   552     
+153 CROWN - MERRILL APARTMENTS                     07:15:00   19:44:00   92      
+154 CROWN - MERRILL APARTMENTS                     07:15:00   19:54:00   243     
+155 CROWN - MERRILL APARTMENTS                     08:44:00   17:43:00   33      
+156 FIRE HOUSE                                     07:11:00   19:02:00   298     
+157 GRADUATE STUDENT APARTMENTS                    08:15:00   18:42:00   341     
+158-159 REDWOOD GROVE APARTMENTS                   06:56:00   19:45:00   146     
+160 OAKES COLLEGE                                  07:06:00   20:19:00   498     
+161 OAKES COLLEGE                                  07:16:00   19:38:00   206     
+162 OAKES COLLEGE                                  07:09:00   19:31:00   1388    
+163 COWELL PROVOST                                 07:05:00   20:22:00   359     
+164 JOHN R. LEWIS COLLEGE                          07:04:00   20:17:00   1541    
+165 JOHN R. LEWIS COLLEGE                          07:06:00   19:40:00   1197    
+166 COLLEGE NINE                                   07:26:00   20:19:00   295     
+167 COLLEGE NINE                                   07:07:00   19:42:00   352     
+168 AGROECOLOGY                                    07:06:00   19:14:00   400     
+169 THE VILLAGE                                    06:51:00   20:29:00   319     
+170 HAY BARN                                       09:22:00   16:57:00   59      
+171 ENVIRONMENTAL HEALTH & SAFETY                  13:57:00   13:57:00   1       
+201 COASTAL SCIENCE CAMPUS                         10:33:00   16:38:00   681     
+202 COASTAL SCIENCE CAMPUS                         11:25:00   16:05:00   16      
+203 COASTAL SCIENCE CAMPUS                         10:39:00   16:34:00   96      
+204 COASTAL SCIENCE CAMPUS                         10:21:00   16:28:00   36      
+205 COASTAL SCIENCE CAMPUS                         10:26:00   16:16:00   111     
+206 COASTAL SCIENCE CAMPUS                         10:06:00   16:25:00   495     
+207 COASTAL SCIENCE CAMPUS                         10:38:00   16:24:00   63      
+301 WESTSIDE RESEARCH PARK                         10:05:00   16:45:00   89      
+302 WESTSIDE RESEARCH PARK                         09:57:00   16:20:00   100     
+6360                                               09:49:00   09:49:00   1       
+ACADEMIC REOSURCE CENTER (ARC)                     10:49:00   16:23:00   3       
+ACADEMIC RESOURCE CENTER (ARC)                     09:04:00   19:28:00   266     
+ACEDEMIC RESOURSE CENTER                           18:01:00   18:01:00   1       
+ALAN CHADWICK GARDEN                               08:15:00   17:40:00   36      
+BARN G                                             08:44:00   13:55:00   2       
+BASKIN CIRCLE                                      13:37:00   13:37:00   1       
+BASKIN ENG COURTYARD                               16:33:00   16:33:00   2       
+BASKIN ENGINEERING                                 08:43:00   20:12:00   37      
+BASKIN VISUAL ARTS                                 08:44:00   18:39:00   112     
+BLACKSMITH SHOP DIRT AREA                          13:05:00   13:05:00   1       
+CHINQUAPIN RD.                                     08:31:00   14:39:00   3       
+CLASSROOM UNIT BUILDING                            13:30:00   17:39:00   3       
+COGEN PLANT                                        09:14:00   20:36:00   16      
+COLLEGE NINE                                       19:31:00   19:31:00   1       
+COLLEGE NINE RD.                                   10:09:00   19:52:00   13      
+COOLIDGE DRIVE                                     06:57:00   18:58:00   38      
+CORPS YARD                                         08:22:00   14:32:00   4       
+COWELL APARTMENTS                                  07:09:00   18:31:00   26      
+COWELL APARTMENTS 2                                12:40:00   12:40:00   1       
+COWELL COLLEGE                                     07:04:00   14:15:00   13      
+COWELL DINING LOADING DOCK                         15:21:00   15:21:00   1       
+COWELL-STEVENSON RD.                               07:12:00   07:12:00   1       
+COWELL-STEVENSON SERVICE RD.                       07:24:00   20:30:00   47      
+CROWN SERVICE RD.                                  07:04:00   20:23:00   77      
+CROWN-MERRILL APARTMENTS                           07:13:00   14:22:00   7       
+DIRT CROWN SERVICE RD.                             10:07:00   10:10:00   4       
+EARTH AND MARINE SCIENCES                          08:17:00   18:02:00   17      
+EAST FIELD HOUSE SPORT COMPLEX                     14:09:00   14:09:00   1       
+EAST FIELD SERVICE ROAD                            08:43:00   20:21:00   28      
+EMPIRE GRADE                                       06:53:00   17:03:00   87      
+ENGINEERING II                                     12:44:00   16:07:00   2       
+FAMILY STUDENT HOUSING                             08:08:00   12:29:00   9       
+FARM SERVICE ROAD                                  12:35:00   12:35:00   1       
+FIELD OFF OF HAGER                                 12:57:00   12:57:00   1       
+GRADUATE STUDENT COMMONS                           13:07:00   15:20:00   3       
+HAGAR DR.                                          08:17:00   19:13:00   29      
+HELLER DR.                                         12:40:00   13:16:00   3       
+HUMANITIES                                         10:56:00   10:56:00   1       
+JOHN R LEWIS RD                                    10:12:00   10:12:00   1       
+JOHN R. LEWIS COLLEGE                              08:17:00   15:55:00   4       
+KOSHLAND WAY                                       07:11:00   16:42:00   62      
+KRESGE ACAD                                        10:16:00   19:54:00   8       
+KRESGE APARTMENTS                                  08:33:00   17:32:00   10      
+KRESGE COLLEGE                                     09:08:00   18:12:00   5       
+KRESGE RD                                          10:13:00   19:37:00   3       
+LEONARDO LANE                                      16:42:00   17:50:00   3       
+LOOKOUT                                            09:25:00   18:11:00   48      
+LOT 104 PARKMOBILE                                 07:10:00   15:29:00   205     
+LOT 109 PARKMOBILE                                 07:44:00   15:25:00   26      
+LOT 126 PARKMOBILE                                 07:42:00   17:04:00   19      
+MCHENRY LIBRARY                                    10:48:00   12:51:00   2       
+MCLAUGHLIN DR.                                     09:01:00   16:49:00   27      
+MERRILL CIRCLE                                     10:49:00   10:49:00   1       
+MUSIC HALL                                         10:13:00   18:05:00   39      
+OAKES APARTMENTS                                   09:57:00   09:57:00   1       
+OAKES CIRCLE                                       04:51:00   17:01:00   10      
+OAKES COLLEGE                                      11:11:00   11:41:00   3       
+OAKES FIELD SERVICE RD.                            07:05:00   20:13:00   114     
+OAKES ROAD                                         12:56:00   20:24:00   30      
+OCEAN HEALTH                                       11:34:00   11:34:00   1       
+OWLS NEST                                          19:32:00   20:18:00   3       
+PERFORMING ARTS                                    10:25:00   10:25:00   1       
+PHYSICAL SCIENCES BUILDING                         11:52:00   12:03:00   2       
+PHYSICAL SCIENCES BUILDING DOCK                    12:00:00   12:00:00   1       
+PORTER APARTMENTS                                  16:46:00   16:54:00   2       
+PORTER DINNING HALL                                18:19:00   18:19:00   1       
+PORTER DORMS                                       07:05:00   18:42:00   40      
+PORTER PROVOST RESIDENCE                           16:11:00   16:14:00   2       
+PORTER SERVICE ROAD                                09:43:00   20:13:00   7       
+PORTER-KRESGE RD                                   07:24:00   20:25:00   176     
+RACHEL CARSON APARTMENTS                           14:11:00   15:02:00   2       
+RACHEL CARSON COLLEGE                              10:31:00   19:16:00   8       
+RACHEL CARSON DORMS                                10:54:00   10:54:00   1       
+RACHEL CARSON SERVICE ROAD                         20:11:00   20:11:00   2       
+RED HILL RD.                                       13:16:00   18:00:00   5       
+RED HILL RD. X MCLAUGHLIN                          15:52:00   15:52:00   2       
+SOCIAL SCIENCES 1                                  08:24:00   15:25:00   4       
+SOCIAL SCIENCES 2                                  10:59:00   15:33:00   2       
+STEINHART WAY                                      08:58:00   20:16:00   51      
+STEVENSON APARTMENTS                               07:08:00   20:17:00   118     
+STEVENSON CIRCLE                                   14:50:00   18:10:00   2       
+STEVENSON SERVICE ROAD                             07:47:00   18:10:00   5       
+STUDENT UNION                                      13:10:00   18:44:00   8       
+THE AARC                                           16:35:00   16:35:00   1       
+THE FARM                                           07:59:00   20:34:00   154     
+THE FARM RD.                                       08:29:00   20:25:00   43      
+THE VILLAGE                                        08:05:00   20:31:00   122     
+THEATER ARTS CENTER                                10:54:00   10:54:00   1       
+THIMANN LABS                                       18:08:00   18:08:00   1       
+WEST FIELD HOUSE                                   07:23:00   20:22:00   66      
+WESTSIDE RESEARCH PARK                             15:47:00   15:47:00   1       
+
+
+================================================================================
+SUMMARY STATISTICS
+================================================================================
+
+Global Earliest Ticket Time (across all locations): 03:51:00
+Global Latest Ticket Time (across all locations): 20:42:00
+Time Span (earliest to latest): 16.9 hours
+
+Average time span per location: 7.7 hours
+Median time span per location: 9.0 hours
+Min time span: 0.0 hours
+Max time span: 16.2 hours
+
+Average tickets per location: 262
+Median tickets per location: 33
+Max tickets at single location: 4643
+Min tickets at single location: 1
+
+Top 3 locations by ticket count:
+  1. 112 CORE WEST STRUCTURE: 4643 tickets
+  2. 103A EAST FIELD HOUSE: 3526 tickets
+  3. 104 EAST REMOTE: 2973 tickets
+
+================================================================================
+ENFORCEMENT PATTERNS
+================================================================================
+
+Locations with earliest enforcement ≤ 6:00 AM: 2
+Locations with earliest enforcement 6:00-9:00 AM: 101
+Locations with enforcement continuing past 5:00 PM: 104
+Locations with enforcement past 8:00 PM: 41
+
+Enforcement Coverage:
+Average % of day with enforcement activity: 32.0%
+Locations with 12+ hours of enforcement: 51
+Locations with <4 hours of enforcement: 46
+
+================================================================================
+TICKETS ISSUED BY HOUR OF DAY
+================================================================================
+
+Hour   Time       Count    Bar Chart
+--------------------------------------------------------------------------------
+0      00:00      0        
+1      01:00      0        
+2      02:00      0        
+3      03:00      1        
+4      04:00      1        
+5      05:00      0        
+6      06:00      10       
+7      07:00      3346     ███████████████████████
+8      08:00      4571     ████████████████████████████████
+9      09:00      5627     ████████████████████████████████████████
+10     10:00      5320     █████████████████████████████████████
+11     11:00      4377     ███████████████████████████████
+12     12:00      4393     ███████████████████████████████
+13     13:00      3703     ██████████████████████████
+14     14:00      4594     ████████████████████████████████
+15     15:00      4803     ██████████████████████████████████
+16     16:00      2293     ████████████████
+17     17:00      1689     ████████████
+18     18:00      1351     █████████
+19     19:00      611      ████
+20     20:00      166      █
+21     21:00      0        
+22     22:00      0        
+23     23:00      0        
+
+Total tickets: 46856
+Peak hour: 9:00 (5627 tickets)
+Slowest hour: 3:00 (1 tickets)
